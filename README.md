@@ -14,9 +14,9 @@ Creative and results-driven developer with a strong foundation in both mobile an
 
 * **Blockchain**: Solidity, Ethereum, Hardhat, Web3.js, Ethers.js, MPC, Chainlink, IPFS, OpenZeppelin, (zKP, DeFi)
 * **Web3 Integration**: MetaMask, WalletConnect, Web3Auth
-* **Mobile**: Dart, Flutter, Firebase, Kotlin (KMM), Platform Channels, CustomPainter, BLoC, Provider, Clean Architecture 
+* **Mobile**: Dart, Flutter, Firebase, Kotlin (KMM), Platform Channels, CustomPainter, BLoC, Provider, sqflite, Hive, Clean Architecture 
 * **Frontend**: Angular, HTML, CSS, TypeScript, JavaScript, Bootstrap, Node.js
-* **Dev Tools**: Git, Postman, VS Code, Azure DevOps - CICD, Remix, Xcode, Android Studio, Figma
+* **Dev Tools**: Git, Postman, VS Code, Azure DevOps - CICD, Remix, Xcode, Android Studio, Figma, Adobe XD
 
 ---
 
