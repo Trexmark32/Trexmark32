@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-Creative and results-driven developer with a strong foundation in both mobile and blockchain ecosystems. I specialize in building cross-platform mobile applications with Flutter and scalable decentralized applications (dApps) on Ethereum using Solidity. I’m passionate about clean architecture, intuitive user experiences, and writing secure smart contracts that solve real-world problems.
+Creative and results-driven developer with a strong foundation in both mobile and blockchain ecosystems. I specialize in building cross-platform mobile applications with Flutter and scalable decentralized applications (dApps) on Ethereum and Polygon using Solidity. I’m passionate about clean architecture, intuitive user experiences, and writing secure smart contracts that solve real-world problems.
 
 ---
 
