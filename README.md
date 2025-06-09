@@ -54,8 +54,8 @@ ERP platform for restaurant management
 
 ### 📚 Education
 
-**B.Tech** in Information Science and Engineering
-Acharya Institute of Technology, Bengaluru | 2020
+**B.Tech** in Information Science and Engineering |
+Acharya Institute of Technology | Bengaluru | 2020
 
 ---
 
